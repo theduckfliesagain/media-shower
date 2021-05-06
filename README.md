@@ -1,6 +1,6 @@
 # Media Shower API
 
-Extrememly basic API delivering information about planets.
+Extremely basic API delivering information about planets.
 
 ## Installation & Usage
 
